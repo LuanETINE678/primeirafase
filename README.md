@@ -1,2 +1,0 @@
-# primeirafase
-programas de logica 
